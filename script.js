@@ -31,13 +31,11 @@
         role: "Developer", 
         age: "21",
         year: "2rd Year",
-        major: "BS Cyber Security",
-        college: "College of Business & Accountancy",
+        major: "BS Information Technology",
+        college: "College of Computer Studies",
         description: "Natural leader with strong organizational skills. Ensures smooth team coordination and project delivery.",
         avatar: "TM",
-        email: "tmarco@university.edu",
-        phone: "+63 917 345 6789",
-        website: "tobeymarco.com"
+        email: "tobsmarco@gmail.com",
       },
       { 
         name: "Emmanuel Robert Tenorio", 
@@ -217,4 +215,5 @@
     // User didn't specify initial state, but usually profiles are viewed first.
     // Dashboard list is collapsed by default in HTML.
     renderUI();
+
 
