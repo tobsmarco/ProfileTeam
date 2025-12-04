@@ -28,7 +28,7 @@
       },
       { 
         name: "Tobey D. Marco", 
-        role: "Developer", 
+        role: "IT Mastermind", 
         age: "21",
         year: "2nd Year",
         major: "BS Information Technology",
@@ -36,8 +36,8 @@
         description: "Natural leader with strong organizational skills. Ensures smooth team coordination and project delivery.",
         avatar: "TM",
         email: "tobsmarco@gmail.com",
-        phone: "+63 917 345 6789",
-        website: "tobeymarco.com"
+        phone: "N/A",
+        website: "N/A"
       },
       { 
         name: "Emmanuel Robert Tenorio", 
@@ -212,6 +212,7 @@
     }
 
     renderUI();
+
 
 
 
